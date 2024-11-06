@@ -2,6 +2,7 @@
 
 The **Olist** company, an e-commerce site based in Brazil, shared anonymized data from its actual records between 2016 and 2018 through Kaggle. Let's dive into the details of my project, which uses this data.
 
+
 **Main Technologies Used in the Project:**
 
 -   SQLite
@@ -19,9 +20,11 @@ The **Olist** company, an e-commerce site based in Brazil, shared anonymized dat
     -   Data Visualization
     -   Data Interpretation
 
+
 **Project Objective:**
 
 The dataset used in the project includes data from the **Olist** company, an e-commerce site in Brazil, covering the years 2016 to 2018. The project was approached from 3 perspectives. First, the data was transferred to a database using **SQLite** and analyzed in detail with queries. Errors in the dataset were corrected with **SQL** queries, and new features were added to the data. Secondly, distances between states were calculated using **Python** to show the distance between customers and sellers. Using this prepared data, a final dataset was created for **Machine Learning**. A **Machine Learning** model was then developed to re-predict the estimated delivery time already present in the data.Thirdly, The prediction results, along with other data, were visualized in **Tableau**, creating a dashboard.
+
 
 **Data Details:**
 
@@ -39,9 +42,11 @@ The data shared by **Olist** consists of 9 csv files:
 
 You can find the data, data details and schema at [this Kaggle link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data).
 
+
 **Project Flow Diagram:**
 
 Now that we know the data and project objective, let’s summarize the project flow in the diagram. You can access the image from the ‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’ directory.
+
 
 **Functions of the Files in the Project Directory:**
 
@@ -98,10 +103,13 @@ To understand the project fully, let’s examine the functions of the files in t
     -   ML Result: The success of the predicted cargo delivery time after the **Machine Learning** model is visualized.
     -   Olist Data Analysis: The main dashboard to be presented is created.
 
+
 **Project Results:**
 
 In the project, a significant success was achieved in the estimated delivery time parameter as a result of the **Machine Learning** model. The mean absolute error (MAE) of the existing estimated in the dataset is 12.609 days. After the project, the mean absolute error (MAE) of the estimated cargo delivery time is 2.95 days. Therefore, if we consider the implementation of this project in real life, a more accurate delivery time prediction can lead to an increase in customer trust.
 
 Additionally, through the **Tableau** dashboard, the data has been interpreted and visualized. This allows business units to use the dashboard and make various inferences to take the necessary actions. You can access the image from the ‘*Tableau Results’* directory or [Tableau Link](https://public.tableau.com/app/profile/nilay.y.cel/viz/OlistE-commerceAnalysis/OlistDataAnalysis).
+
+
 
 **Due to the size of the data, it could not be added. You can access the data from** [**the main Kaggle page**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)**. You can generate the other datas by following the process flow diagram.** (‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’)
