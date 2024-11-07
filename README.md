@@ -49,9 +49,9 @@ You can find the data, data details and schema at [this Kaggle link](https://www
 
 **Project Flow Diagram:**
 
-Now that we know the data and project objective, let’s summarize the project flow in the diagram. You can access the image from the ‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’ directory.
+Now that we know the data and project objective, let’s summarize the project flow in the diagram below. You can access the larger version of the image from the ‘*Project* *Process* *Flow* *Diagram/Process* *Flow Diagram.png*’ directory. 
 
-![](Olist-E-Commerce-Data-Analysis-and-Delivery-Time-Prediction/blob/main/Project%20Process%20Flow%20Diagram/Olist%20Tableau.png)
+<img src='./Project Process Flow Diagram/Olist Tableau.png'>
 
 
 **Functions of the Files in the Project Directory:**
@@ -114,7 +114,9 @@ To understand the project fully, let’s examine the functions of the files in t
 
 In the project, a significant success was achieved in the estimated delivery time parameter as a result of the **Machine Learning** model. The mean absolute error (MAE) of the existing estimated in the dataset is 12.609 days. After the project, the mean absolute error (MAE) of the estimated cargo delivery time is 2.95 days. Therefore, if we consider the implementation of this project in real life, a more accurate delivery time prediction can lead to an increase in customer trust.
 
-Additionally, through the **Tableau** dashboard, the data has been interpreted and visualized. This allows business units to use the dashboard and make various inferences to take the necessary actions. You can access the image from the ‘*Tableau Results’* directory or [Tableau Link](https://public.tableau.com/app/profile/nilay.y.cel/viz/OlistE-commerceAnalysis/OlistDataAnalysis).
+Additionally, through the **Tableau** dashboard shown below, the data has been interpreted and visualized. This allows business units to use the dashboard and make various inferences to take the necessary actions. You can access the larger version of the image from the ‘*Tableau Results’* directory or [Tableau Link](https://public.tableau.com/app/profile/nilay.y.cel/viz/OlistE-commerceAnalysis/OlistDataAnalysis).
+
+<img src='./Tableau Results/Olist Tableau Analysis.png'>
 
 --------------------------
 
