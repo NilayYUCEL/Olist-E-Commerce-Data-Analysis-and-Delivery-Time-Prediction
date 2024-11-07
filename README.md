@@ -51,7 +51,7 @@ You can find the data, data details and schema at [this Kaggle link](https://www
 
 Now that we know the data and project objective, let’s summarize the project flow in the diagram. You can access the image from the ‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’ directory.
 
-![alt text](./Project Process Flow Diagram/Olist Tableau.png)
+![](Olist-E-Commerce-Data-Analysis-and-Delivery-Time-Prediction/blob/main/Project%20Process%20Flow%20Diagram/Olist%20Tableau.png)
 
 
 **Functions of the Files in the Project Directory:**
