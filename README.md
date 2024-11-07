@@ -117,3 +117,5 @@ Additionally, through the **Tableau** dashboard, the data has been interpreted a
 
 
 **Due to the size of the data, it could not be added. You can access the data from** [**the main Kaggle page**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)**. You can generate the other datas by following the process flow diagram.** (‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’)
+
+If you would like to access the final version of the data, feel free to reach out to me at **yucelnilay024@gmail.com**.
