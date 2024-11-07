@@ -71,9 +71,9 @@ To understand the project fully, let’s examine the functions of the files in t
         -   Handling Inconsistent Data: Inconsistent data was cleaned and corrected.
         -   Feauture Engineering: New features were added to the dataset.
         -   Editing Data Types: Data types were adjusted to the appropriate and correct format.
-        -   Data Virtualization for Ineffective Columns: Data that was decided not to be used in the **Machine Learning** model was visualized before being removed from the dataset.
+        -   Data Visualization for Ineffective Columns: Data that was decided not to be used in the **Machine Learning** model was visualized before being removed from the dataset.
         -   Data Selection and Reduction: Data that would not be used in the **Machine Learning** model was removed from the dataset.
-        -   Data Virtualization for Other Columns: Data that would be used in training the **Machine Learning** model was visualized.
+        -   Data Visualization for Other Columns: Data that would be used in training the **Machine Learning** model was visualized.
         -   Correlation Analysis for Numerical Values: A correlation graph was created for numerical data.
         -   Outlier Detection: Outliers were detected and removed from the dataset.
         -   Normalization: Normalization was performed on numerical data.
