@@ -23,7 +23,11 @@ The **Olist** company, an e-commerce site based in Brazil, shared anonymized dat
 
 **Project Objective:**
 
-The dataset used in the project includes data from the **Olist** company, an e-commerce site in Brazil, covering the years 2016 to 2018. The project was approached from 3 perspectives. First, the data was transferred to a database using **SQLite** and analyzed in detail with queries. Errors in the dataset were corrected with **SQL** queries, and new features were added to the data. Secondly, distances between states were calculated using **Python** to show the distance between customers and sellers. Using this prepared data, a final dataset was created for **Machine Learning**. A **Machine Learning** model was then developed to re-predict the estimated delivery time already present in the data.Thirdly, The prediction results, along with other data, were visualized in **Tableau**, creating a dashboard.
+The dataset used in the project includes data from the **Olist** company, an e-commerce site in Brazil, covering the years 2016 to 2018. The project was approached from 3 perspectives. 
+
+-    SQL: The data was transferred to a database using **SQLite** and analyzed in detail with queries. Errors in the dataset were corrected with **SQL** queries, and new features were added to the data.
+-    Python: Distances between states were calculated using **Python** to show the distance between customers and sellers. Using this prepared data, a final dataset was created for **Machine Learning**. A **Machine Learning** model was then developed to re-predict the estimated delivery time already present in the data.
+-    Tableau: The prediction results, along with other data, were visualized in **Tableau**, creating a dashboard.
 
 
 **Data Details:**
