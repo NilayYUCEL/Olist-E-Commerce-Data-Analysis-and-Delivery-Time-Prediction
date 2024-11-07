@@ -114,7 +114,7 @@ In the project, a significant success was achieved in the estimated delivery tim
 
 Additionally, through the **Tableau** dashboard, the data has been interpreted and visualized. This allows business units to use the dashboard and make various inferences to take the necessary actions. You can access the image from the ‘*Tableau Results’* directory or [Tableau Link](https://public.tableau.com/app/profile/nilay.y.cel/viz/OlistE-commerceAnalysis/OlistDataAnalysis).
 
-
+--------------------------
 
 **Due to the size of the data, it could not be added. You can access the data from** [**the main Kaggle page**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/)**. You can generate the other datas by following the process flow diagram.** (‘*Project* *Process Flow Diagram/Process Flow Diagram.png*’)
 
